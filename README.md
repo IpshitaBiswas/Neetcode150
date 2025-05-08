@@ -1,4 +1,4 @@
-# 🚀 My NeetCode 150 Journey
+# My NeetCode 150 Journey
 
 Just a repo where I'm dumping my LeetCode solutions while prepping for placements. Following the [NeetCode 150](https://neetcode.io/roadmap) roadmap - big thanks to NeetCode for curating this list!
 
